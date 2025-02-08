@@ -15,15 +15,15 @@ This project presents an **interactive Excel** dashboard for analyzing e-commerc
 -  Top 5 sub categories
 -   Category sales share%
 -   Sales by state
-  # Questions
-- a. Utilize the e-commerce sales research to assess the effectiveness of various discounting techniques. Find out which bargain tactics generated the most revenue and profit, and look for ways to make upcoming 
+### Questions
+  a. Utilize the e-commerce sales research to assess the effectiveness of various discounting techniques. Find out which bargain tactics generated the most revenue and profit, and look for ways to make upcoming 
     marketing campaigns more effective.
 
--b.  Use the ecommerce sales analysis to determine the lifetime value of each customer. Use this information to identify high-value customers and to develop strategies to increase customer retention and loyalty.
+  b. Determine the lifetime value of each customer. Use this information to identify high-value customers and to develop strategies to increase customer retention and loyalty.
 
--c.  Use the ecommerce sales analysis to develop a predictive model that forecasts future sales and profit.
+  c. Develop a predictive model that forecasts future sales and profit.
 
--d. Analyze the preferred ship modes among clients. Do they place more orders for the same day delivery?
+  d. Analyze the preferred ship modes among clients. Do they place more orders for the same day delivery?
 
 
 - Dashboard Interaction <a href=https://github.com/anamika122/E-Commerce-Sales-Analysis-Interactive-Excel-Dashboard/blob/main/Screenshot%202025-02-08%20141345.png>View Dashboard</a>
@@ -37,9 +37,24 @@ This project presents an **interactive Excel** dashboard for analyzing e-commerc
 ## Dashboard
 ![Screenshot 2025-02-08 141345](https://github.com/user-attachments/assets/21558370-4a52-4e65-9209-7658fd1d4234)
 
--
+## Analysis for Answering the Questions
+a) Given Different Discounts on Products we can see in range of 0-10% Discounts We have highest sales and Profit.
+![Discount Analysis](https://github.com/user-attachments/assets/fdea9c52-9ac7-4ac2-8d6a-4a5d28f4a39d)
 
-## Conclusion
+b) Top 10 Customers Ids generated high sales and profit in life-time.
+![Top 10 Customers](https://github.com/user-attachments/assets/854fe914-37d6-4081-8b75-7de1a2152fb5)
+
+c) Yearwise sales and profit with their forecasts sales and profits.
+![Year Wise sales and profit](https://github.com/user-attachments/assets/4d8510a8-f301-4e48-9708-44865df918a8)
+
+![Sales Forecast](https://github.com/user-attachments/assets/6847a0db-7aec-4a4a-9c49-d4d96942d2e9)
+
+![Profit Forecast](https://github.com/user-attachments/assets/aa0aaa18-d081-4593-90ed-53974c1d9cb2)
+
+d)The preferred ship modes among clients.
+![Shipping choices](https://github.com/user-attachments/assets/6a62543c-f796-4cb3-b862-829276acf02c)
+
+## Project Insight
 
 The Observations From the dashboard are :
 
@@ -49,6 +64,12 @@ The Observations From the dashboard are :
 4. The total profit margin is decreasing.
 5. Highest sales is obtained in the month of November.
 6. California is the maximum selling state.
+
+## Final Conclusion:
+1.For Future Marketing Campagins we can give **discounts of 0-10%** for generating the most revenue and profit.
+2.For customer retention we can **focus on high-value customers** by giving them some extra discounts or giftcards in future purchases.
+3.By developing the forecasts of future sales and profit we can **track and focus on key factors** of business.
+4.Most of customers demand **standard class** shipping for their products.
 
 
 
