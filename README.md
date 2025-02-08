@@ -9,12 +9,22 @@ Data is already available in excel Format.
 Ecommerce sales analysis involves the examination of online sales data to understand customer behavior, identify trends, and make informed business decisions. It is crucial for businesses to optimize their online sales strategies and stay competitive in the digital marketplace.
 This project presents an **interactive Excel** dashboard for analyzing e-commerce sales performance. The dashboard provides **key insights** into sales, profit, quantity sold, order trends, and category-wise performance, allowing businesses to make data-driven decisions.
 
-## KPIs
+## KPIs AND Questions
 - Sales & Profit Analysis
 -  Category wise profit
 -  Top 5 sub categories
 -   Category sales share%
 -   Sales by state
+  # Questions
+- a. Utilize the e-commerce sales research to assess the effectiveness of various discounting techniques. Find out which bargain tactics generated the most revenue and profit, and look for ways to make upcoming 
+    marketing campaigns more effective.
+
+-b.  Use the ecommerce sales analysis to determine the lifetime value of each customer. Use this information to identify high-value customers and to develop strategies to increase customer retention and loyalty.
+
+-c.  Use the ecommerce sales analysis to develop a predictive model that forecasts future sales and profit.
+
+-d. Analyze the preferred ship modes among clients. Do they place more orders for the same day delivery?
+
 
 - Dashboard Interaction <a href=https://github.com/anamika122/E-Commerce-Sales-Analysis-Interactive-Excel-Dashboard/blob/main/Screenshot%202025-02-08%20141345.png>View Dashboard</a>
 
@@ -26,6 +36,8 @@ This project presents an **interactive Excel** dashboard for analyzing e-commerc
 
 ## Dashboard
 ![Screenshot 2025-02-08 141345](https://github.com/user-attachments/assets/21558370-4a52-4e65-9209-7658fd1d4234)
+
+-
 
 ## Conclusion
 
