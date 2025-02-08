@@ -73,8 +73,11 @@ The Observations From the dashboard are :
 
 
 1.For Future Marketing Campagins we can give **discounts of 0-10%** for generating the most revenue and profit.
+
 2.For customer retention we can **focus on high-value customers** by giving them some extra discounts or giftcards in future purchases.
+
 3.By developing the forecasts of future sales and profit we can **track and focus on key factors** of business.
+
 4.Most of customers demand **standard class** shipping for their products.
 
 
