@@ -46,7 +46,7 @@ b) Top 10 Customers Ids generated high sales and profit in life-time.
 
 ![Top 10 Customers](https://github.com/user-attachments/assets/854fe914-37d6-4081-8b75-7de1a2152fb5)
 
-c) Yearwise sales and profit with their forecasts sales and profits.
+c) Year wise sales and profit with their forecasts sales and profits.
 
 ![Year Wise sales and profit](https://github.com/user-attachments/assets/4d8510a8-f301-4e48-9708-44865df918a8)
 
@@ -72,9 +72,9 @@ The Observations From the dashboard are :
 ## Final Conclusion:
 
 
-1.For Future Marketing Campagins we can give **discounts of 0-10%** for generating the most revenue and profit.
+1.For Future Marketing Campaigns we can give **discounts of 0-10%** for generating the most revenue and profit.
 
-2.For customer retention we can **focus on high-value customers** by giving them some extra discounts or giftcards in future purchases.
+2.For customer retention we can **focus on high-value customers** by giving them some extra discounts or gift cards in future purchases.
 
 3.By developing the forecasts of future sales and profit we can **track and focus on key factors** of business.
 
